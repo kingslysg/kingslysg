@@ -1,6 +1,6 @@
 # Kingsly Bose
 
-## Certified Full-Stack Developer | 14+ years building enterprise software
+## Certified Full-Stack Developer 
 
 I build connected products from user experience through APIs, data, cloud deployment, and production operations. My work spans modern web applications, distributed systems, API-led integration, analytics, and AI-enabled applications.
 
