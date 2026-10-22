@@ -43,6 +43,7 @@ Selected projects authored and developed by **Kingsly Bose**, illustrating pract
 
 3. **[Sentinel AI Intelligence Platform](https://github.com/kingslysg/sentinel-ai-workbench)**  
    React · TypeScript · Python · RAG Demo · NLP · Semantic Cache · AWS Bedrock Adapter
+   4. **[Market Data Ingestion & ETL Platform](https://github.com/kingslysg/market-data-ingestion-etl-platform)** · Java 21 · Spring Boot · Python · Apache Kafka · Spark Structured Streaming · Apache Airflow · PostgreSQL · Next.js · TypeScript
 
 **[Explore all GitHub repositories →](https://github.com/kingslysg?tab=repositories)**
 
