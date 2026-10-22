@@ -6,12 +6,24 @@
 
 I design and develop these independent sample projects to demonstrate my hands-on approach to application architecture, full-stack development, enterprise integration, and AI engineering—from working code and API design to testing and deployment.
 
-![AWS Certified Developer](https://img.shields.io/badge/AWS-Certified_Developer-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Sun Certified Java Programmer](https://img.shields.io/badge/SCJP-Sun_Certified_Java_Programmer-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python Certified](https://img.shields.io/badge/Python-Certified-3776AB?style=flat-square&logo=python&logoColor=white)
-![Harvard AI Governance](https://img.shields.io/badge/Harvard-AI_Governance_%26_Security-A51C30?style=flat-square)
-![Johns Hopkins Agentic AI](https://img.shields.io/badge/Johns_Hopkins-Agentic_AI_Architect-002D72?style=flat-square)
+<picture>
+  <img src="https://img.shields.io/badge/AWS-Certified_Developer-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Developer">
+</picture>
+<picture>
+  <img src="https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Certified">
+</picture>
+<picture>
+  <img src="https://img.shields.io/badge/SCJP-Sun_Certified_Java_Programmer-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Sun Certified Java Programmer">
+</picture>
+<picture>
+  <img src="https://img.shields.io/badge/Python-Certified-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Certified">
+</picture>
+<picture>
+  <img src="https://img.shields.io/badge/Harvard-AI_Governance_%26_Security-A51C30?style=flat-square" alt="Harvard AI Governance">
+</picture>
+<picture>
+  <img src="https://img.shields.io/badge/Johns_Hopkins-Agentic_AI_Architect-002D72?style=flat-square" alt="Johns Hopkins Agentic AI">
+</picture>
 
 **Java · Spring Boot · Python · React · TypeScript · MuleSoft Anypoint Platform · Generative AI · RAG · AWS · GCP**
 
