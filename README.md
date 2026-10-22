@@ -31,7 +31,7 @@ I design and develop these independent sample projects to demonstrate my hands-o
 
 ---
 
-## 🚀 Sample Portfolio Projects
+## 🚀 List of Featured GitHub Projects
 
 Selected projects authored and developed by **Kingsly Bose**, illustrating practical engineering patterns across full-stack applications, API platforms, and AI workflows.
 
