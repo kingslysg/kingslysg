@@ -36,6 +36,72 @@ Java 21 · Spring Boot · Python · Apache Kafka · Spark Structured Streaming �
 **[Explore all GitHub repositories →](https://github.com/kingslysg?tab=repositories)**
 ---
 ## 💻 Code Portfolio
-Explore working code samples demonstrating application design, service integration, technical problem-solving, and implementation practices.
+
+I design and build these portfolio projects to demonstrate how I approach full-stack development, enterprise integration, data engineering, and AI. Each project highlights the architecture, technologies, and engineering work behind the experience.
+
+### 🔗 MuleSoft Customer Profile API Platform
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github&logoColor=white)](https://github.com/kingslysg/mule-react-customer-api-platform)
+
+**Technology stack:** React · MuleSoft Anypoint Platform · Mule 4 · RAML · APIkit · DataWeave · CloudHub 2.0
+
+A customer profile experience that demonstrates API-led connectivity across Experience, Process, and mock System APIs.
+
+**My contribution:**
+- Designed the flow from the React interface through the Experience API and Process API to the mock System API.
+- Defined API contracts with RAML and APIkit.
+- Implemented Mule flows and DataWeave transformations to orchestrate requests and shape responses.
+- Documented the service boundaries and the end-to-end request flow.
+
+### 🧩 Full-Stack Dashboard & Python API Services
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github&logoColor=white)](https://github.com/kingslysg/angular-django-fastapi-nosql-portfolio-sample)
+
+**Technology stack:** AngularJS · Apollo Client · GraphQL · Strawberry GraphQL · Python · Django REST Framework · FastAPI · MongoDB
+
+An end-to-end dashboard sample connecting a web interface, GraphQL query layer, Python APIs, and document storage.
+
+**My contribution:**
+- Designed the request path from the dashboard through GraphQL and Python services to MongoDB.
+- Connected the AngularJS interface to GraphQL using Apollo Client.
+- Separated API responsibilities across Strawberry GraphQL, Django REST Framework, and FastAPI.
+- Used sample data to demonstrate how the services work together.
+
+### 🤖 Sentinel AI Intelligence Platform
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github&logoColor=white)](https://github.com/kingslysg/sentinel-ai-workbench)
+
+**Technology stack:** React · TypeScript · Vite · Apollo Client · GraphQL · Python · FastAPI · RAG · NLP · Milvus adapter · AWS Bedrock adapter
+
+An inspectable AI application demo that shows how a question can move through retrieval, response generation, caching, and source attribution.
+
+**My contribution:**
+- Built a dataset-scoped retrieval flow that returns grounded responses with source references.
+- Added query normalization and NLP processing, plus a visible semantic-cache demonstration.
+- Structured provider adapters to make the model integration boundary clear.
+- Included a mock provider for local use and optional adapters for separately configured services.
+
+*The local demo uses fictional data and does not require cloud credentials. Check the project README for current integration details.*
+
+### 📈 Market Data Ingestion & ETL Platform
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github&logoColor=white)](https://github.com/kingslysg/market-data-ingestion-etl-platform)
+
+**Technology stack:** Java 21 · Spring Boot · Python · Apache Kafka · Apache Spark Structured Streaming · Apache Airflow · PostgreSQL · Next.js · React · TypeScript · AG Charts · Framer Motion
+
+A market-data engineering portfolio sample by **Kingsly Bose, Senior Full-Stack Developer**. It presents an event-driven ingestion and streaming ETL design with an operations dashboard, using simulated market events.
+
+**Project design and contribution:**
+- Designed a mock quote and trade event flow from a Java/Spring Boot service through Kafka topics into Spark Structured Streaming.
+- Documented validation, normalization, deduplication, idempotency checks, NLP enrichment, and dead-letter queue (DLQ) handling.
+- Mapped PostgreSQL to operational records and pipeline state, with Snowflake and Databricks described as optional analytical integrations.
+- Outlined Apache Airflow workflows for scheduled ingestion, backfills, reconciliation, DLQ replay, and monitoring.
+- Created a light dashboard concept using Next.js, React, TypeScript, AG Charts, and Framer Motion to present pipeline health and simulated market activity.
+
+*Market events are fictional. Airflow, Snowflake, Databricks, and other external services require separate configuration; see the repository README for the implementation currently available.*
+
+---
+
+**Explore more of my work:** [GitHub repositories](https://github.com/kingslysg?tab=repositories) · [Profile README source](https://github.com/kingslysg/kingslysg)
 ### 🔗 MuleSoft Customer Profile API Platform
 [![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github&logoColor=white)](https://github.com/kingslysg/mule-react-customer-api-platform)
