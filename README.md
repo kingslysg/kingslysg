@@ -131,6 +131,26 @@ An inspectable AI application demo showing how a question moves through retrieva
 
 </details>
 
+### 4. 📈 Market Data Ingestion & ETL Platform
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github&logoColor=white)](https://github.com/kingslysg/market-data-ingestion-etl-platform)
+
+**Java 21 · Spring Boot · Python · Apache Kafka · Spark Structured Streaming · Apache Airflow · PostgreSQL · Next.js · TypeScript**
+
+A portfolio sample by Kingsly Bose, Senior Full Stack Developer, exploring an event-driven market-data ingestion and streaming ETL architecture with a live operations dashboard.
+
+- Mock quote and trade events flow through a Java API and Kafka topics into Spark processing.
+- Demonstrates event validation, normalization, deduplication, idempotency checks, NLP enrichment, and DLQ concepts.
+- Includes a light-theme dashboard concept built with React, TypeScript, AG Charts, and Framer Motion.
+- README documents local setup, technical flow diagrams, and the service layout.
+
+<details>
+<summary><strong>Implementation scope</strong></summary>
+
+All market data is simulated. Airflow, Snowflake, and Databricks are optional examples and require separate configuration. The GitHub repository is being populated; review its current file list for the source currently available.
+
+</details>
+
 ---
 
 **[Browse all repositories →](https://github.com/kingslysg?tab=repositories)** · [Profile README repository](https://github.com/kingslysg/kingslysg)
