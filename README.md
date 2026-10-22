@@ -1,16 +1,27 @@
 # Kingsly Bose
 
 ## Certified Lead Full-Stack Developer & AI Solutions Architect
-![AWS Certified Developer](https://img.shields.io/badge/AWS-Certified_Developer-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Author & Lead Developer of the portfolio projects featured below.**
+
+I design and develop these independent sample projects to demonstrate my hands-on approach to application architecture, full-stack development, enterprise integration, and AI engineering—from working code and API design to testing and deployment.
+
+![AWS Certified Developer](https://img.shields.io/badge/AWS-Certified_Developer-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Sun Certified Java Programmer](https://img.shields.io/badge/SCJP-Sun_Certified_Java_Programmer-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python Certified](https://img.shields.io/badge/Python-Certified-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Harvard AI Governance](https://img.shields.io/badge/Harvard-AI_Governance_%26_Security-A51C30?style=flat-square)
 ![Johns Hopkins Agentic AI](https://img.shields.io/badge/Johns_Hopkins-Agentic_AI_Architect-002D72?style=flat-square)
 
-Java · Spring Boot · Python · React · TypeScript · MuleSoft · Generative AI · RAG · AWS · GCP
+**Java · Spring Boot · Python · React · TypeScript · MuleSoft Anypoint Platform · Generative AI · RAG · AWS · GCP**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kingslysg?tab=repositories)
+
+---
 
 ## 🚀 Sample Portfolio Projects
+
+Selected projects authored and developed by **Kingsly Bose**, illustrating practical engineering patterns across full-stack applications, API platforms, and AI workflows.
 
 1. **[MuleSoft Customer Profile API Platform](https://github.com/kingslysg/mule-react-customer-api-platform)**  
    React · MuleSoft · API-Led Connectivity · RAML · DataWeave
@@ -27,7 +38,7 @@ Java · Spring Boot · Python · React · TypeScript · MuleSoft · Generative A
 
 ## 💻 Code Portfolio
 
-**Explore working code samples across full-stack applications, enterprise APIs, and AI engineering.**
+Explore working code samples demonstrating application design, service integration, technical problem-solving, and implementation practices.
 
 ### 🔗 MuleSoft Customer Profile API Platform
 
@@ -110,8 +121,7 @@ An inspectable AI application demo showing how a question moves through retrieva
 
 ---
 
-**[Browse all repositories →](https://github.com/kingslysg?tab=repositories)**  
-[Profile README repository](https://github.com/kingslysg/kingslysg)
+**[Browse all repositories →](https://github.com/kingslysg?tab=repositories)** · [Profile README repository](https://github.com/kingslysg/kingslysg)
 
 *These independent portfolio samples use fictional or sample data.*
 
@@ -168,6 +178,6 @@ My background spans **entertainment and media, financial services, healthcare, f
 - **AI:** Harvard — AI Governance, Observability & Security · Johns Hopkins — Agentic AI Architect Certificate · IBM Generative AI
 - **Data:** IBM — Data Engineering, PySpark, and ETL
 
-
+---
 
 [![GitHub](https://img.shields.io/badge/GitHub-kingslysg-181717?logo=github&logoColor=white)](https://github.com/kingslysg)
